@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abidkakkur11
-- 👀 I’m interested in programming,coding, designing,cybersecurity
-- 🌱 I’m currently learning coding,cybersecurity,web designing
+- 👀 I love programming, creating solutions, making videos, content creations & travelling
 
 <!---
 abidkakkur11/abidkakkur11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
