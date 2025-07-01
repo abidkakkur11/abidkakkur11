@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abidkakkur11
-- 👀 I love programming, creating solutions, making videos, content creations & travelling
+- 👀 I code, create, and explore; passionate about solutions and new destinations.
 
 <!---
 abidkakkur11/abidkakkur11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
